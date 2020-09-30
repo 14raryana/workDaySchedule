@@ -22,4 +22,4 @@ The save button is the functional portion for the text area. On clicking of the 
 https://14raryana.github.io/workDaySchedule/
 
 ## Picture of Website:
-![day planner demo](./Assets/workDayScheduleScreenShot.png)
+![work day planner](./Assets/workDayScheduleScreenShot.png)
